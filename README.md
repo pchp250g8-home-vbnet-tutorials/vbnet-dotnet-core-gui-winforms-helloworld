@@ -5,7 +5,6 @@ The program does the following:
   3. When you click the button labeled "Say Hello", it displays a dialog box with the message "Hello, World".
   4. Clicking the button labeled "Quit" or the "Close" button in the dialog box's title bar exits the dialog box.
 
-
 HelloWorld. Занятия по VB.Net Платформа DotNet Core. Простой Вввод/Вывод. Библиотека Windows Forms. 
 Приложение с графическим интерфейсом пользователя.
 Программа делает следующее:
